@@ -42,6 +42,7 @@ ul{
 li{
     color: #323F92;
     font-size: 3vw;
+
     transition: 0.5s;
 }
 li:hover{
@@ -51,4 +52,5 @@ li:hover{
 }
 .img-garnet{
     width: 25vw;
+
 }
