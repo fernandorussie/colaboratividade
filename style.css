@@ -42,10 +42,16 @@ ul{
 li{
     color: #323F92;
     font-size: 3vw;
+<<<<<<< HEAD
     transition: 0.5s;
 }
 li:hover{
     transform: scale(1.03);
     color: white;
     cursor: pointer;
+=======
+}
+.img-garnet{
+    width: 25vw;
+>>>>>>> 2af4221a49a4747945319a9dce030a70151c0fd6
 }
